@@ -14,7 +14,7 @@ class PRUBEAGITHUB_API UPruebaSubida : public UObject
 {
 	GENERATED_BODY()
 
-		int32 num = 10;
+		int32 num =10;
 
 		FString nombre = "";
 
