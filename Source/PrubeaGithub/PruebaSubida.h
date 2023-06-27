@@ -13,5 +13,5 @@ UCLASS()
 class PRUBEAGITHUB_API UPruebaSubida : public UObject
 {
 	GENERATED_BODY()
-	float Numero=0;
+	
 };
