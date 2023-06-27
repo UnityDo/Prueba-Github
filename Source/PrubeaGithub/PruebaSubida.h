@@ -16,4 +16,5 @@ class PRUBEAGITHUB_API UPruebaSubida : public UObject
 
 		int32 num = 10;
 		float numerosFloat = 0;
+		FString nombre = "";
 };
