@@ -13,5 +13,7 @@ UCLASS()
 class PRUBEAGITHUB_API UPruebaSubida : public UObject
 {
 	GENERATED_BODY()
-	
+
+		int32 num = 10;
+		float numerosFloat = 0;
 };
